@@ -1,0 +1,12 @@
+{
+  "name": "stori-repurposing-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local full-stack content repurposing studio with persistent brand memory.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
